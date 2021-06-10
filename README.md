@@ -1,4 +1,4 @@
-# Discrete2_Cities
+# ShortestPathAlgorithm
  Shortest path algorithm
 
 HOW TO USE ALGORITHM: 

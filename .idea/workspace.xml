@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b0a1cb-e4b7-44ad-910f-c7ce3fcab213" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Discrete2_Cities.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleFromTo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/sampleFromTo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpletext.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -44,7 +44,7 @@
   </component>
   <component name="RunManager" selected="Python.Program">
     <configuration name="Discrete_Math" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Discrete2_Cities" />
+      <module name="ShortestPathAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -65,15 +65,15 @@
       <method v="2" />
     </configuration>
     <configuration name="Program" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Discrete2_Cities" />
+      <module name="ShortestPathAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\User\AppData\Local\Programs\Python\Python37-32\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Program.py" />
@@ -86,7 +86,7 @@
       <method v="2" />
     </configuration>
     <configuration name="csv_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Discrete2_Cities" />
+      <module name="ShortestPathAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -107,7 +107,7 @@
       <method v="2" />
     </configuration>
     <configuration name="dictionarySample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Discrete2_Cities" />
+      <module name="ShortestPathAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -128,7 +128,7 @@
       <method v="2" />
     </configuration>
     <configuration name="isGraphConstant" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Discrete2_Cities" />
+      <module name="ShortestPathAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -149,7 +149,7 @@
       <method v="2" />
     </configuration>
     <configuration name="make_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Discrete2_Cities" />
+      <module name="ShortestPathAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,7 +205,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
